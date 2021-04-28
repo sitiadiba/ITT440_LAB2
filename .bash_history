@@ -95,3 +95,49 @@ nano 2.1.c
 2.1c
 2.1.c
 exit
+nano 2.3.c
+git status
+ls
+nano 2.2.c
+ls
+git commit
+q
+ls 2.3.c
+ls
+nano 2.3.c
+LS
+ls
+gcc 2.3.c
+./a.out
+git status
+git add .
+git innit
+git push
+ls
+git status
+.git
+git status
+git remote add origin
+git inint
+git init
+ls
+git status
+git add .
+git push
+git remote add origin https://github.com/sitiadiba/ITT440-LAB2.git
+git branch -M master
+git push -u origin master
+git remote add 2.3c https://github.com/sitiadiba/ITT440-LAB2.git
+git push 2.3.c
+git status
+git add 2.3.c
+ls
+git status
+git restore 2.3.c
+ls
+git push
+git commit -m "commit to 2.3.c"
+git commit -m "commit for 2.3.c"
+git commit -m "commit to 2.3.c"
+git status
+exit
